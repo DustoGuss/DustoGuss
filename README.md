@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DustoGuss
 - 👀 I’m interested in learning C and GML
-- 🌱 I’m currently learning Java and a little bit of GML
-- 💞️ I’m looking to collaborate on nothing
+- 🌱 I’m currently learning C and a little bit of GML
 - 📫 How to reach me ...
 - 😄 Pronouns: He\Him
 - ⚡ Fun fact: I do know how to read!!!
