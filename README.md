@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DustoGuss
-- 👀 I’m interested in learning Java and GML
+- 👀 I’m interested in learning C and GML
 - 🌱 I’m currently learning Java and a little bit of GML
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ...
