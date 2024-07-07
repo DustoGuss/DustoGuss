@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @DustoGuss
-- 👀 I’m interested in learning C and GML
-- 🌱 I’m currently learning C and a little bit of GML
-- 😄 Pronouns: He\Him
-- ⚡ Fun fact: I do know how to read!!!
+bum taka taka bum bum toko toko
+python sucks
 
 <!---
 DustoGuss/DustoGuss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
