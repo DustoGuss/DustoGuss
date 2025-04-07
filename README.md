@@ -3,8 +3,8 @@
 🚫 **AVOID** PYTHON! 
 🛐 **WORSHIP** THE LOW-LEVEL LANGUAGES!
 ------------------
-[![DustoGuss](https://github-readme-stats.vercel.app/api/top-langs/?username=DustoGuss&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![DustoGuss](https://github-readme-stats.vercel.app/api?username=DustoGuss&show_icons=true&theme=tokyonight)
+[![DustoGuss](https://github-readme-stats.vercel.app/api/top-langs/?username=DustoGuss&layout=donut&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+![DustoGuss](https://github-readme-stats.vercel.app/api?username=DustoGuss&show_icons=true&theme=catppuccin_mocha)
 
 
 <!---
